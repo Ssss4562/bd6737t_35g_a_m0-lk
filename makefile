@@ -94,7 +94,7 @@ DEFINES := LK=1
 SRCDEPS := $(CONFIGHEADER)
 
 # these need to be filled out by the project/target/platform rules.mk files
-TARGET :=
+TARGET := bd6737t_35g_a_m0
 PLATFORM :=
 ARCH :=
 MACH_TYPE :=
